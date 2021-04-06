@@ -1,20 +1,21 @@
 ---
 title:Basics for Computer-Networking
 published: true
----
-# Conversiones
+---  
+
+## Conversiones
 
 - Convertir de Binario a Decimal
 - Convertir de Decimal a Binario
 
 
-## Convertir de Binario a Decimal
+### Convertir de Binario a Decimal
 
 **Tabla de Referencia**  
 
 | 2^7 | 2^6 | 2^5 | 2^4 | 2^3 | 2^2 | 2^1 | 2^0 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 128 | 64  | 32  | 16  | 8   | 4   | 2   | 1   |
+| 128 | 64  | 32  | 16  | 8   | 4   | 2   | 1   |  
 
 convertir 101101
 colocamos cada 1 de derecha a izquierda
@@ -28,7 +29,7 @@ colocamos cada 1 de derecha a izquierda
 Sumamos los valores y nos da 45  
   
   
-## Convertir de Decimal a Binario
+### Convertir de Decimal a Binario
 
 | 2^7 | 2^6 | 2^5 | 2^4 | 2^3 | 2^2 | 2^1 | 2^0 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
