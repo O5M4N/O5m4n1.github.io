@@ -6,7 +6,7 @@ published: true
 ## Conversiones
 
 - [Convertir de Binario a Decimal](https://o5m4n.github.io/Basic-Computer-Networking#convertir-de-binario-a-decimal)
-- [Convertir de Decimal a Binario](https://o5m4n.github.io/Basic-Computer-Networking#convertir-de-Decimal-a-binario)
+- [Convertir de Decimal a Binario](https://o5m4n.github.io/Basic-Computer-Networking#convertir-de-decimal-a-binario)
 <br />
 ### Convertir de Binario a Decimal
 
