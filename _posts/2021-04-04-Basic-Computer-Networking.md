@@ -1,7 +1,7 @@
 ---
 title:Basics for Computer-Networking
 published: true
----  
+---
 
 ## Conversiones
 
