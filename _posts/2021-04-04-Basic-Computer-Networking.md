@@ -1,14 +1,15 @@
 ---
 title: Basics for Computer-Networking
 published: true
----
-
+---  
+  
+  
 ## Conversiones
 
 - Convertir de Binario a Decimal
 - Convertir de Decimal a Binario
-
-
+  
+  
 ### Convertir de Binario a Decimal
 
 **Tabla de Referencia**  
