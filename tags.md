@@ -3,7 +3,7 @@ layout: page
 title: Tags
 ---
 
-- Programming
-- Computer-Networking
-- CTFs-writeups
-- Tools
+- [Programming](https://o5m4n.github.io/Programming)
+- [Computer-Networking](https://o5m4n.github.io/Computer-Networking)
+- [CTFs-Writeups](https://o5m4n.github.io/CTFs-Writeups)
+- [Tools](https://o5m4n.github.io/Tools)
