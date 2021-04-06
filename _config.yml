@@ -63,5 +63,5 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "By 05m4n"
+owner : "05m4n"
 year : "2021"
