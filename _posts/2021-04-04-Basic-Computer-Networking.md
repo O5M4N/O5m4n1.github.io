@@ -1,5 +1,5 @@
 ---
-title:Basics for Computer-Networking
+title: Basics for Computer-Networking
 published: true
 ---
 
@@ -15,7 +15,7 @@ published: true
 
 | 2^7 | 2^6 | 2^5 | 2^4 | 2^3 | 2^2 | 2^1 | 2^0 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 128 | 64  | 32  | 16  | 8   | 4   | 2   | 1   |  
+| 128 | 64  | 32  | 16  | 8   | 4   | 2   | 1   |
 
 convertir 101101
 colocamos cada 1 de derecha a izquierda
