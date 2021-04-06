@@ -2,13 +2,12 @@
 title: Basics for Computer-Networking
 published: true
 ---  
-<br />
-  
+<br />  
 ## Conversiones
 
 - [Convertir de Binario a Decimal](https://o5m4n.github.io/Basic-Computer-Networking#convertir-de-binario-a-decimal)
-- Convertir de Decimal a Binario
-  
+- [Convertir de Decimal a Binario](https://o5m4n.github.io/Basic-Computer-Networking#convertir-de-Decimal-a-binario)
+<br />
 ### Convertir de Binario a Decimal
 
 **Tabla de Referencia**  
