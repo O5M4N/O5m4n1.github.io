@@ -6,11 +6,11 @@ published: true
   
 ## Conversiones
 
-- Convertir de Binario a Decimal  [Bin-Deci](https://duckduckgo.com)
+- Convertir de Binario a Decimal  [convertir-de-binario-a-decimal]
 - Convertir de Decimal a Binario
   
   
-### Convertir de Binario a Decimal [Binario a Decimal](https://o5m4n.github.io/Basic-Computer-Networking#Bin-Deci "Binario a Decimal")
+### Convertir de Binario a Decimal
 
 **Tabla de Referencia**  
 
