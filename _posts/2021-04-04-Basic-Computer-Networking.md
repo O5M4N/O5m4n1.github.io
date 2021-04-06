@@ -2,7 +2,7 @@
 title: Basics for Computer-Networking
 published: true
 ---  
-  
+<br />
   
 ## Conversiones
 
@@ -29,7 +29,7 @@ colocamos cada 1 de derecha a izquierda
 
 Sumamos los valores y nos da 45  
   
-  
+<br /> 
 ### Convertir de Decimal a Binario
 
 | 2^7 | 2^6 | 2^5 | 2^4 | 2^3 | 2^2 | 2^1 | 2^0 |
