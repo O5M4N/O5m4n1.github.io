@@ -24,12 +24,10 @@ I beliebe in plain, static html pages, as stable and simple way to distrubute my
 <div align="center">
   <script align="center" src="https://www.hackthebox.eu/badge/450688"></script>
 </div>  
-  
-  
-<br> 
+ 
 <br>   
 <br>
-<h3 id="Happy Hacking" align="center">  Happy Hacking </h3>
+<h3 id="Happy Hacking" align="center">  Happy Hacking! </h3>
 
 
 
