@@ -10,8 +10,8 @@ title: About
 I beliebe in plain, static html pages, as stable and simple way to distrubute my own thoughs and ideas.  
   
   
-</br>
-</br>
+<br>
+<br>
 ### Skills and Tools
 
 |Programming 	| C, C++, Java, C#, VB, PHP, Python, JS, Bash, Pascal, SQL, Prolog, LUA, ABAP, AJAX	|
