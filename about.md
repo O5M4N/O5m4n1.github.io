@@ -10,9 +10,9 @@ title: About
 I beliebe in plain, static html pages, as stable and simple way to distrubute my own thoughs and ideas.  
 
 
-<p align="center">
+<div align="center">
   <script align="center" src="https://www.hackthebox.eu/badge/450688"></script>
-</p>
+</div> 
 
 <h4 id="Happy Hacking" align="center">  Happy Hacking </h4>
 
