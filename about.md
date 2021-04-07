@@ -26,8 +26,9 @@ I beliebe in plain, static html pages, as stable and simple way to distrubute my
 </div>  
   
   
-</br>  
-</br>
+<br> 
+<br>   
+<br>
 <h3 id="Happy Hacking" align="center">  Happy Hacking </h3>
 
 
