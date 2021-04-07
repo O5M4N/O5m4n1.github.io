@@ -39,14 +39,15 @@ Sumamos los valores y nos da 45
 
 convertir 78  
 comparamos el 78 con cada numero  
-|78| es mayor igual a 128 = No |
-|78| es mayor igual a 64 = SI 78 - 64 = 14 |  
-|14|es mayor igual a 32 = No  |
+
+|78| es mayor igual a 128 = No  |
+|78| es mayor igual a 64 = SI 78 - 64 = 14  |  
+|14| es mayor igual a 32 = No |
 |14| es mayor igual a 16 = No |
-|14| es mayor igual a 8  = SI 14 - 8 = 6 | 
-|6| es mayor igual a 4   = SI 6 - 4 = 2  |
-|2| es mayor igual a 2   = SI 2 - 2 = 0  |
-|0| es mayor igual a 1   = NO  |
+|14| es mayor igual a 8  = SI 14 - 8 = 6  | 
+|6 | es mayor igual a 4   = SI 6 - 4 = 2  |
+|2 | es mayor igual a 2   = SI 2 - 2 = 0  |
+|0 | es mayor igual a 1   = NO  |
    
 REMPLAZAMOS LOS SI POR 1 en la tabla
 
