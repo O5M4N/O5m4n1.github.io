@@ -1,10 +1,14 @@
 <footer>
-  <p>{% include social-links.html %}</p>
-  <p><a href="https://creativecommons.org/licenses/by-nc/3.0/deed.en_US">
+  <div>
+    <div class="header-social-links">
+      {% include social-links.html %}
+  </div>
+  <a href="https://creativecommons.org/licenses/by-nc/3.0/deed.en_US">
     <span>
-        <b>{{ site.owner}}</b>
+        <b>By {{ site.owner}}</b>
     </span>
     {% capture currentyear %}{{ 'now' | date: "%Y" }}{% endcapture %}
     <span>© {{ currentyear }}</span>
-    </a></p>
+  </a>
+  </div>
 </footer>
