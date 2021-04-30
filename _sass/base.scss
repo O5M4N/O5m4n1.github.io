@@ -269,7 +269,7 @@ a:active, a:focus {
 /* Make footer stick to bottom */
 
 .pagination, footer {
-  height: 50px;
+  height: auto;
   line-height: 50px;
   text-align: center;
 }
