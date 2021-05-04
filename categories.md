@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tags
+title: Categories
 ---
 
 - [Programming](https://o5m4n.github.io/programming)
