@@ -27,7 +27,6 @@ body {
   width: 90%;
   max-width: 1000px;
   margin: 0 auto;
-  overflow: auto;
 }
 
 
@@ -55,7 +54,6 @@ header {
   border-bottom: 1px dashed $conifer; //header;
   padding: 20px;
   margin: 0 0 40px 0;
-  overflow: auto;
 }
 
 .header-links {
@@ -183,7 +181,6 @@ table {
   width: 90%;
   margin: 0 0 20px 0;
   overflow:auto;
-  overflow-x:auto;
 }
 
 th {
