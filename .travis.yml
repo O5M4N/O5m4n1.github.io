@@ -1,4 +1,6 @@
 language: ruby
-rvm:
- - 2.2
- - jruby
+cache: bundler
+rvm: 2.6
+
+install: script/bootstrap
+script: script/cibuild
