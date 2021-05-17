@@ -23,12 +23,14 @@ published: true
 **Ejemplo**  
 convertir 101101  
 colocamos cada 1 de derecha a izquierda  
-<div style="overflow-x:auto;">
+<div style="overflow-x:auto;">  
+
 | 2<sup>7</sup>| 2<sup>6</sup> | 2<sup>5</sup> | 2<sup>4</sup> | 2<sup>3</sup> | 2<sup>2</sup> | 2<sup>1</sup>| 2<sup>0</sup> | Numero |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 128 | 64  | 32  | 16  | 8   | 4   | 2   | 1   |     |
 |     |     | 1   | 0   | 1   | 1   | 0   | 1   | BIN |
 | 0   | 0   | 32  | 0   | 8   | 4   | 0   | 1   | 45  |  
+
 </div>
 Sumamos los valores y nos da 45  
   
