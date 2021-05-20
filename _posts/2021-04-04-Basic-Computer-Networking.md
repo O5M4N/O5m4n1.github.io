@@ -24,7 +24,7 @@ published: true
 convertir 101101  
 colocamos cada 1 de derecha a izquierda  
 
-<div class="table-wrapper" markdown="block">  
+<div class="table-wrapper" markdown="block"> 
   
 | 2<sup>7</sup>| 2<sup>6</sup> | 2<sup>5</sup> | 2<sup>4</sup> | 2<sup>3</sup> | 2<sup>2</sup> | 2<sup>1</sup>| 2<sup>0</sup> | Numero |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -49,7 +49,7 @@ convertir 78
 comparamos el 78 con cada numero  
 
 <div class="table-wrapper" markdown="block">
-
+  
 |78 | >= 128 = No  |
 |78 | >= 64  = SI -> 78 - 64 = 14  |  
 |14 | >= 32  = No |
