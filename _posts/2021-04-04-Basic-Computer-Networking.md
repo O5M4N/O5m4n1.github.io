@@ -23,6 +23,7 @@ published: true
 **Ejemplo**  
 convertir 101101  
 colocamos cada 1 de derecha a izquierda  
+
 <div class="table-wrapper" markdown="block">  
   
 | 2<sup>7</sup>| 2<sup>6</sup> | 2<sup>5</sup> | 2<sup>4</sup> | 2<sup>3</sup> | 2<sup>2</sup> | 2<sup>1</sup>| 2<sup>0</sup> | Numero |
@@ -31,7 +32,8 @@ colocamos cada 1 de derecha a izquierda
 |     |     | 1   | 0   | 1   | 1   | 0   | 1   | BIN |
 | 0   | 0   | 32  | 0   | 8   | 4   | 0   | 1   | 45  |  
     
-</div>
+</div>  
+
 Sumamos los valores y nos da 45  
   
 <br /> 
@@ -45,6 +47,7 @@ Sumamos los valores y nos da 45
 **Ejemplo**  
 convertir 78  
 comparamos el 78 con cada numero  
+
 <div class="table-wrapper" markdown="block">
 
 |78| >= 128 = No  |
@@ -56,11 +59,13 @@ comparamos el 78 con cada numero
 |2 | >= 2   = SI -> 2  -  2  = 0  |
 |0 | >= 1   = NO  |  
   
-</div> 
+</div>  
+
 REMPLAZAMOS LOS SI POR 1 en la tabla  
+
 | 2<sup>7</sup>| 2<sup>6</sup> | 2<sup>5</sup> | 2<sup>4</sup> | 2<sup>3</sup> | 2<sup>2</sup> | 2<sup>1</sup>| 2<sup>0</sup> |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 128 | 64  | 32  | 16  | 8   | 4   | 2   | 1   |
-| 0   | 1   | 0   | 0   | 1   | 1   | 1   | 0   |
+| 0   | 1   | 0   | 0   | 1   | 1   | 1   | 0   |  
 
 78 = 01001110
