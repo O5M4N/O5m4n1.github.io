@@ -175,9 +175,17 @@ code.highlighter-rouge {
   border-radius: 2px;
 }
 
-.table-wrapper {
+.table-wrapper-x {
   overflow-x: auto;
 }
+
+.table-wrapper-y {
+  overflow-y: auto;
+}
+
+.table-wrapper {
+  overflow: auto;
+} 
 
 table {
   width: 90%;
