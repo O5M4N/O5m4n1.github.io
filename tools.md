@@ -2,12 +2,11 @@
 layout: page
 title: Tools
 ---
-## Tools
+# Tools
+---  
 
-### Programming Tools.  
-
-### Hackin Tools.  
-#### Port Sacann.
+## Hackin Tools.  
+- Port Sacann.
   - [Nmap](https://nmap.org)
 - Web Discobery
   - [Dirb](https://tools.kali.org/web-applications/dirb)
@@ -21,4 +20,5 @@ title: Tools
   - [John the Ripper](https://www.openwall.com/john/)
   - [Hashcat](https://hashcat.net/hashcat/)
 
-    
+### Programming Tools.  
+
