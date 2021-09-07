@@ -6,19 +6,23 @@ title: Tools
 ---  
 
 ## Hackin Tools.  
-- Port Sacann.
+### Port Sacann.
   - [Nmap](https://nmap.org)
-- Web Discobery
+  
+### Web Discobery
   - [Dirb](https://tools.kali.org/web-applications/dirb)
   - [Dirsearch](https://github.com/maurosoria/dirsearch) 
-  - [Gobuster](https://github.com/OJ/gobuster) 
-- Fingerprinting
+  - [Gobuster](https://github.com/OJ/gobuster)  
+
+### Fingerprinting
   - [Builtwith](https://builtwith.com/)
-- SQL injection
+
+### SQL injection
   - [SqlMap](https://sqlmap.org/)
-- Password/Hash cracker's
+
+### Password/Hash cracker's
   - [John the Ripper](https://www.openwall.com/john/)
   - [Hashcat](https://hashcat.net/hashcat/)
 
-### Programming Tools.  
+## Programming Tools.  
 
