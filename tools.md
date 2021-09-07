@@ -7,4 +7,10 @@ title: Tools
 ### Programming Tools.  
 
 ### Hackin Tools.  
-1. List of hacking tools.
+- Port Sacann.
+  - [Nmap](https://nmap.org)
+- Web Discobery
+  - [Dirsearch](https://github.com/maurosoria/dirsearch) 
+  - [Gobuster](https://github.com/OJ/gobuster) 
+
+    
