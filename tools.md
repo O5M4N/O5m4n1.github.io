@@ -6,7 +6,7 @@ title: Tools
 ---  
 <br>  
 
-# Hacking Tools.  
+# \# Hacking Tools.  
 ## Port Sacann.  
 - [Nmap](https://nmap.org)
   
@@ -25,7 +25,16 @@ title: Tools
 - [John the Ripper](https://www.openwall.com/john/)
 - [Hashcat](https://hashcat.net/hashcat/)
 
+## Malware Analisys
+- [DetectionLab](https://detectionlab.network/introduction/prerequisites/)  
+
+## Geolocation
+- Twitter
+  - [Twitter Geolocation](https://github.com/shawn-terryah/Twitter_Geolocation)
+
+
+
 <br>  
 
-# Programming Tools.  
+# \# Programming Tools.  
 
