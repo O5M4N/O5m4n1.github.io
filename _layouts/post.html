@@ -11,7 +11,8 @@ layout: default
       <a class="no-underline" href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>    
     {% endfor %}
     ]
-  </span>
+  </span>  
+  
   <span <time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time> </span>
   {{ content }}
 </article>
