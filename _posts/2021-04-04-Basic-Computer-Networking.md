@@ -1,6 +1,7 @@
 ---
 title: Basics for Computer-Networking
 published: true
+tags: computer-networking Binary Decimal
 ---  
 <br />  
 ## Conversiones
