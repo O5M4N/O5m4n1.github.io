@@ -175,10 +175,6 @@ code.highlighter-rouge {
   border-radius: 2px;
 }
 
-.no-underline:hover{
-  text-decoration: none;
-}
-
 
 .div-wrapper {
   overflow: auto; 
@@ -268,6 +264,10 @@ a:active, a:focus {
   outline: 0;
   border: none;
   -moz-outline-style: none
+}
+
+.no-underline:hover{
+  text-decoration: none;
 }
 
 /* Clearfix */
