@@ -12,6 +12,7 @@ layout: default
     {% endfor %}
     ]
   </span> 
+  <br>
   <span> <time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time> </span>
   {{ content }}
 </article>
