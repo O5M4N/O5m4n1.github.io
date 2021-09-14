@@ -266,9 +266,23 @@ a:active, a:focus {
   -moz-outline-style: none
 }
 
+a.no-uderline:visited, a.no-underline:link {
+   text-decoration: none;
+}
+
+a.tag-style:visited, a.tag-style:link{
+  color:#751aff;
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+  text-decoration:none;
+}
+/*a.ex5:hover, a.ex5:active {
+text-decoration: underline;
+}*/
+
 .no-underline:hover{
   text-decoration: none;
 }
+
 
 /* Meta data line below post title */
 .post-tags {

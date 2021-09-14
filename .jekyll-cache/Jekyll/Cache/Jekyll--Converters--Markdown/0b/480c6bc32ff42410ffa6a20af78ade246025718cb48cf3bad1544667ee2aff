@@ -1,0 +1,6 @@
+I"3
+<p>~~html
+{% include archive.html %}
+~~</p>
+
+:ET
