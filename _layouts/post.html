@@ -8,8 +8,10 @@ layout: default
   {{ content }}
   <br>
   <br>
+  <span style="color:#de15de">
+  <i class="fas fa-tags"></i>
+  </span>
   <span class="post-tags">
-    <i class="fas fa-tags"></i>
     [&nbsp;
     {% for tag in page.tags %}
       {% capture tag_name %}{{ tag }}{% endcapture %}
