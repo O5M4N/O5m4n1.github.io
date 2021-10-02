@@ -3,7 +3,11 @@ layout: default
 ---
 
 <article>
-  <h1>{{ page.title }}</h1>
+  <h1>{{ page.title }}</h1> 
+  <br>
+  <span> <time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time> </span>
+  {{ content }}
+    
   <span class="post-tags">
     <i class="fas fa-tags"></i>
     [&nbsp;
@@ -12,8 +16,5 @@ layout: default
       <a class="tag-style" href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>    
     {% endfor %}
     ]
-  </span> 
-  <br>
-  <span> <time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time> </span>
-  {{ content }}
+  </span>
 </article>
